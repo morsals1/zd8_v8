@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@android:color/white">
+
+    <EditText
+        android:id="@+id/registerLoginEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Логин"
+        android:background="@drawable/edit_text_background"
+        android:padding="10dp"/>
+
+    <EditText
+        android:id="@+id/registerPasswordEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Пароль"
+        android:inputType="textPassword"
+        android:background="@drawable/edit_text_background"
+        android:padding="10dp"
+        android:layout_marginTop="16dp"/>
+
+    <EditText
+        android:id="@+id/registerEmailEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:background="@drawable/edit_text_background"
+        android:padding="10dp"
+        android:layout_marginTop="16dp"/>
+
+    <Spinner
+        android:id="@+id/registerRoleSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/spinner_background"
+        android:padding="10dp"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/registerSubmitButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Зарегистрироваться"
+        android:background="@color/colorAccent"
+        android:textColor="@android:color/white"
+        android:padding="10dp"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>

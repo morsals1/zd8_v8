@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.mebel.app-mergeDebugResources-75:/layout/item_furniture.xml",
+        "source": "com.example.mebel.app-main-78:/layout/item_furniture.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-mergeDebugResources-75:/layout/activity_client_main.xml",
+        "source": "com.example.mebel.app-main-78:/layout/activity_client_main.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-mergeDebugResources-75:/layout/activity_item_details.xml",
+        "source": "com.example.mebel.app-main-78:/layout/activity_item_details.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-mergeDebugResources-75:/layout/activity_supplier_main.xml",
+        "source": "com.example.mebel.app-main-78:/layout/activity_supplier_main.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-mergeDebugResources-75:/layout/activity_main.xml",
+        "source": "com.example.mebel.app-main-78:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-mergeDebugResources-75:/layout/activity_registration.xml",
+        "source": "com.example.mebel.app-main-78:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-mergeDebugResources-75:/layout/part_item.xml",
+        "source": "com.example.mebel.app-main-78:/layout/part_item.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-mergeDebugResources-75:/layout/activity_worker_main.xml",
+        "source": "com.example.mebel.app-main-78:/layout/activity_worker_main.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-mergeDebugResources-75:/layout/activity_client_order.xml",
+        "source": "com.example.mebel.app-main-78:/layout/activity_client_order.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-mergeDebugResources-75:/layout/activity_supplier_details.xml",
+        "source": "com.example.mebel.app-main-78:/layout/activity_supplier_details.xml"
+    }
+]

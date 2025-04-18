@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mebel.app-main-78:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mebel.app-main-78:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mebel.app-main-78:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.mebel.app-main-78:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mebel.app-main-78:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/layout_activity_client_main.xml.flat",
+        "source": "com.example.mebel.app-main-78:/layout/activity_client_main.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.mebel.app-main-78:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mebel.app-main-78:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/xml_backup_rules.xml.flat",
+        "source": "com.example.mebel.app-main-78:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/layout_activity_registration.xml.flat",
+        "source": "com.example.mebel.app-main-78:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mebel.app-main-78:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mebel.app-main-78:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mebel.app-main-78:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/layout_part_item.xml.flat",
+        "source": "com.example.mebel.app-main-78:/layout/part_item.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/layout_item_furniture.xml.flat",
+        "source": "com.example.mebel.app-main-78:/layout/item_furniture.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/layout_activity_main.xml.flat",
+        "source": "com.example.mebel.app-main-78:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/layout_activity_item_details.xml.flat",
+        "source": "com.example.mebel.app-main-78:/layout/activity_item_details.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mebel.app-main-78:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mebel.app-main-78:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/layout_activity_client_order.xml.flat",
+        "source": "com.example.mebel.app-main-78:/layout/activity_client_order.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/layout_activity_supplier_details.xml.flat",
+        "source": "com.example.mebel.app-main-78:/layout/activity_supplier_details.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/drawable_edit_text_background.xml.flat",
+        "source": "com.example.mebel.app-main-78:/drawable/edit_text_background.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mebel.app-main-78:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mebel.app-main-78:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mebel.app-main-78:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/layout_activity_supplier_main.xml.flat",
+        "source": "com.example.mebel.app-main-78:/layout/activity_supplier_main.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/layout_activity_worker_main.xml.flat",
+        "source": "com.example.mebel.app-main-78:/layout/activity_worker_main.xml"
+    },
+    {
+        "merged": "com.example.mebel.app-merged_res-76:/drawable_spinner_background.xml.flat",
+        "source": "com.example.mebel.app-main-78:/drawable/spinner_background.xml"
+    }
+]
